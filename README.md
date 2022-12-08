@@ -1,2 +1,2 @@
 # React-Native-Goals
-first step of learning react native
+learning react native first steps
